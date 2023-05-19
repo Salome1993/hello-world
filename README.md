@@ -1,2 +1,2 @@
 # hello-world
-salome short code
+my name is salome Ndadza
